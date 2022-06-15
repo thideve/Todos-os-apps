@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+
+}
+h1{
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: 300;
+
+}
+#app{
+  background: linear-gradient(rgb(0, 0, 255),rgb(0, 255, 128));
+
+}
+#game{
+  background: linear-gradient(rgb(133, 0, 173), rgb(1, 1, 1));
+
+}
+.line{
+height: 6px;
+background-color: black;
+width: 70px;
+margin: 8px auto;
+
+}
